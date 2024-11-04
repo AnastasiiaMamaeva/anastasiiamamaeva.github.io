@@ -1,5 +1,5 @@
 # Anastasiia Mamaeva
-<img src="./dnF-fvolsxs.jpg" />
+<img src="./dnF-fvolsxs.jpg"  style="width:500px;height:600px/>
 Hi! I am Anastasiia, a new MC's student in WIS in Life Science. I am pationat about implementing programming in wet biology to analyse data.
 My pations lay in a field of protein-protein interactions.
 --
