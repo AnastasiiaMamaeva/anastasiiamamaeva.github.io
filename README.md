@@ -7,8 +7,8 @@ Among hobies I have sports - you can always find me running across Weizmann camp
 
 ---
 ## Orientation lab
-1st [Ori Avinoam lab](https://www.weizmann.ac.il/Biomolecular_Sciences/Avinoam/)
-2nd [Gideon Schreiber lab](https://www.weizmann.ac.il/Biomolecular_Sciences/schreiber/)
+- 1st [Ori Avinoam lab](https://www.weizmann.ac.il/Biomolecular_Sciences/Avinoam/)
+- 2nd [Gideon Schreiber lab](https://www.weizmann.ac.il/Biomolecular_Sciences/schreiber/)
 
 
 You can find me in [Researcher Gate](https://www.researchgate.net/profile/Anastasiia-Mamaeva-2)
