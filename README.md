@@ -1,4 +1,4 @@
-<img src="./dnF-fvolsxs.jpg"  style="float:right;width:400px;height:400px;margin-right;"/>
+<img src="./dnF-fvolsxs.jpg"  style="width:400px;height:400px;"/>
 
 Hi! I am Anastasiia, a new MC's student in WIS. I am passionat about implementing programming in wet biology to analyse data.
 To be more specific, I am in a field of protein-protein interactions. 
